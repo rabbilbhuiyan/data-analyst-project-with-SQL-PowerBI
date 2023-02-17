@@ -1,6 +1,6 @@
 # Microsoft AdventureWorks Database Analysis and Visualization with PowerBI
 ## Setup requirement
-- Data: Download the AdventureWorks sample databases from Microsoft Database link. The database has 3 versions of backup files: OLTP, Data Warehouse and Lightweight. I chose 'AdventureWorksDW2019.bak' data for analysis and visualization.
+- Data: Download the AdventureWorks sample databases from Microsoft Database link: (https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver15&tabs=ssms). The database has 3 versions of backup files: OLTP, Data Warehouse and Lightweight. I chose 'AdventureWorksDW2019.bak' data for analysis and visualization.
 - Query Editor: The query editing was done in Microsoft SQL Server Management Studio (SSMS). To connect and restore the databases to SSMS I followed the instruction provided in microsoft link as
 - Visualization: The visualization was done using Microsoft Power BI.
 
