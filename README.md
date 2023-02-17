@@ -12,5 +12,6 @@
 - I first identified the necessary tables e.g Customer, Product, Calendar, InternetSales tables based on business request and user stories. Then using SQL statement I customized the tables and saved the results as CSV files. Finally, I splited them into dimension and fact tables.
 
 ## Data visualization
-- Data model
+i) Entity realationship diagram model
+![Data Model](./images/Model Relations.png)
 - Dashboard
