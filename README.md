@@ -16,7 +16,7 @@
 
 ## Data visualization
 i) Entity realationship diagram model
-![Data Model](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Model%20Relations..png)
+![Data Model](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Model%20Relations.png)
 
 ii) Sales overview dashboard
 ![Sales overview](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Sales%20Overview.png)
