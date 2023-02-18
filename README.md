@@ -13,5 +13,5 @@
 
 ## Data visualization
 i) Entity realationship diagram model
-![Data Model](./images/Model Relations.png)
-- Dashboard
+![Data Model](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Model%20Relations.png)
+
