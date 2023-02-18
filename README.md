@@ -17,6 +17,6 @@ i) Entity realationship diagram model
 ii) Sales overview dashboard
 ![Sales overview](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Sales%20Overview.png)
 iii) Customer details dashboard
-[Customer details](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Customer%20Details.png)
+![Customer details](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Customer%20Details.png)
 iv) Product details dashboard
-[Product details](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Product%20Details.png)
+![Product details](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Product%20Details.png)
