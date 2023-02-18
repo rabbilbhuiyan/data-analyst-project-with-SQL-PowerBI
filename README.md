@@ -7,6 +7,7 @@
 ## Business request and planning
 - I followed the business request from the Manager Steve to build this analytics project. The key word is underlined for building this projet.
 - After that planning is made based on the business demand and build the user stories as illustrated below
+[user stories](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Business%20Request%20%26%20Planning/Business%20Demand%20Overview%20%26%20User%20Stories.pdf)
 
 ## Data cleansing and transformation 
 - I first identified the necessary tables e.g Customer, Product, Calendar, InternetSales tables based on business request and user stories. Then using SQL statement I customized the tables and saved the results as CSV files. Finally, I splited them into dimension and fact tables.
