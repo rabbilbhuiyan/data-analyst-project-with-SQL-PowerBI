@@ -10,11 +10,13 @@
 [user stories](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Business%20Request%20%26%20Planning/Business%20Demand%20Overview%20%26%20User%20Stories.pdf)
 
 ## Data cleansing and transformation 
-- I first identified the necessary tables e.g Customer, Product, Calendar, InternetSales tables based on business request and user stories. Then using SQL statement I customized the tables and saved the results as CSV files. Finally, I splited them into dimension and fact tables.
+- I first identified the necessary tables e.g Customer, Product, Calendar, InternetSales tables based on business request and user stories. Then using SQL statement I customized the tables and saved the results as CSV files. Finally, I splited them into dimension and fact tables. Example of SQL statement is:
+
+![Product SQL](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/DIM_product.png)
 
 ## Data visualization
 i) Entity realationship diagram model
-![Data Model](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Model%20Relations.png)
+![Data Model](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Model%20Relations..png)
 
 ii) Sales overview dashboard
 ![Sales overview](https://github.com/rabbilbhuiyan/data-analyst-project-with-SQL-powerBI/blob/master/Images/Sales%20Overview.png)
